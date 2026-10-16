@@ -9,13 +9,11 @@ We design, build and run software end to end: from AI agents to mobile games.
 
 ### What we build
 
-| | |
-|---|---|
-| **AI automation and agents** | LLM-powered agents and workflow automation that do real work inside existing tools |
-| **Custom software** | Web platforms, APIs and internal tools on .NET, Python and modern web stacks |
-| **Integrations** | Connecting ERP, e-commerce, accounting and third-party APIs so data moves on its own |
-| **Odoo / ERP** | Implementation, custom modules and integrations |
-| **Mobile apps and games** | Flutter and Unity; 39 titles live on Google Play (25 games, 14 apps) |
+- **AI automation and agents**: LLM-powered agents and workflow automation that do real work inside existing tools
+- **Custom software**: Web platforms, APIs and internal tools on .NET, Python and modern web stacks
+- **Integrations**: Connecting ERP, e-commerce, accounting and third-party APIs so data moves on its own
+- **Odoo / ERP**: Implementation, custom modules and integrations
+- **Mobile apps and games**: Flutter and Unity; 39 titles live on Google Play (25 games, 14 apps)
 
 ### Selected work
 
