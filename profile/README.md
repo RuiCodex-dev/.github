@@ -31,9 +31,10 @@
 
 ## About Rui Codex
 
-**Rui Codex** is a Belgian software engineering studio (Tielt-Winge, Flanders), founded in 2026 by Selman Altinay.
-We build AI automation, custom software, Odoo/ERP systems and integrations for businesses in Belgium and across the EU,
-and we design, publish and maintain our own mobile apps and games: **39 titles on Google Play** at the latest count on our website.
+**Rui Codex** is a Belgian software engineering company, founded in 2026 by Selman Altinay, a software engineer with more than
+12 years of experience and over 200 delivered projects in his career. We build custom software, AI automation and system
+integrations for businesses, on site in Belgium and the Benelux and remotely across Europe, and we design, publish and maintain
+our own mobile apps and games: **25 games and 14 apps on Google Play** at the latest count on our website.
 
 ## What we build
 
@@ -54,8 +55,8 @@ and we design, publish and maintain our own mobile apps and games: **39 titles o
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3>&#129513; Odoo and ERP</h3>
-      Implementation, custom modules, migration and integrations, tailored to how the business runs.
+      <h3>&#129513; ERP and business systems</h3>
+      ERP, CRM and accounting systems: custom modules, data migration and integrations, tailored to how the business runs.
     </td>
     <td width="33%" valign="top">
       <h3>&#128241; Mobile apps and games</h3>
@@ -63,7 +64,7 @@ and we design, publish and maintain our own mobile apps and games: **39 titles o
     </td>
     <td width="33%" valign="top">
       <h3>&#127760; Five languages</h3>
-      We work in English, Dutch, French, German and Turkish, from Belgium for clients across the EU.
+      We work in English, Dutch, French, German and Turkish: on site in Belgium and the Benelux, remotely across Europe.
     </td>
   </tr>
 </table>
@@ -172,7 +173,7 @@ Products we build and run ourselves. Every tile opens the real store listing.
     <td width="32%" rowspan="2" align="center"><img src="media/shots/ruicodex-com-mobile.jpg" alt="ruicodex.com home page on a phone" width="240"></td>
   </tr>
   <tr>
-    <td><img src="media/shots/ruicodex-com-services.jpg" alt="ruicodex.com: what we do best, AI automation, custom software, Odoo and ERP"></td>
+    <td><img src="media/shots/ruicodex-com-services.jpg" alt="ruicodex.com: the services section of the home page"></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><sub>ruicodex.com, captured on desktop (1440 px) and phone (390 px).</sub></td>
@@ -215,7 +216,7 @@ Hackathon and challenge projects we built in the open:
 | Web | JavaScript / TypeScript |
 | Mobile and games | Flutter / Dart, Unity |
 | Data | SQL Server, PostgreSQL |
-| ERP | Odoo |
+| Integrations | ERP, CRM, accounting and e-commerce APIs |
 | AI | OpenAI and Anthropic APIs, LLM agents and workflow automation |
 
 ## Contact
